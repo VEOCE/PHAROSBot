@@ -1,4 +1,4 @@
-# PHAROS TESTNET AUTO
+# PHAROS TESTNET
 ## Features ✨
 
 - **Automated Swaps**: Performs random swaps between WPHRS and USDC tokens
