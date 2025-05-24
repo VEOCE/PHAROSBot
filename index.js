@@ -25,9 +25,9 @@ const logger = {
   user: (msg) => console.log(`\n${colors.white}[➤] ${msg}${colors.reset}`),
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
-    console.log('-------------------------------------------------');
-    console.log(' Pharos Testnet Auto Bot - Airdrop Insiders');
-    console.log('-------------------------------------------------');
+    console.log('-------------------------');
+    console.log(' PHAROS TESTNET AUTO BOT ');
+    console.log('-------------------------');
     console.log(`${colors.reset}\n`);
   },
 };
