@@ -20,7 +20,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/VEOCE/PHAROSBot.git
-   cd Pharos-Auto-Bot
+   cd PHAROSBot
    ```
 
 2. Install dependencies:
